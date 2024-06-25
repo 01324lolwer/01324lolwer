@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Games and surrounding Software
 - 📫 How to reach me Discord: (ClickingHolzi) / (01324lol_wer) 
-- 😄 Pronouns: who / me 
+- 😄 Pronouns: who / wer 
 - ⚡ Fun fact: I don't know who i am.
 
 <!---

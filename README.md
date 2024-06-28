@@ -1,18 +1,3 @@
-- 👋 Hi, I’m @01324lolwer
-- 👀 I’m interested in Gaming and Programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Games and surrounding Software
-- 📫 How to reach me Discord: (ClickingHolzi) / (01324lol_wer) 
-- 😄 Pronouns: who / wer 
-- ⚡ Fun fact: I don't know who i am.
-- 
-- PS:
-- Even thoug i was born Visible
-- Í now identify as invisible
-- My Pronouns are (Who / Where)
-
-
-
 <h1 align="center">Hi 👋, I'm 01324lol_wer</h1>
 <h3 align="center">Just a random IT Student from Germany.</h3>
 
@@ -46,10 +31,10 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01324lolwer&" alt="01324lolwer" /></p>
 
 <p align="center"> 
-- PS:
-- Even thoug i was born Visible
-- Í now identify as invisible
-- My Pronouns are (Who / Where) 
+PS:
+Even thoug i was born Visible,
+I now identify as invisible.
+My Pronouns are (Who / Where) 
 </p>
 <!---
 01324lolwer/01324lolwer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

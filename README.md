@@ -20,6 +20,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01324lolwer" alt="01324lolwer" /></a> </p>
 
+<h4 align="center">👀 I’m interested in Gaming and Programming</h4>
+<h4 align="center">🌱 I’m currently learning Java</h4>
+<h4 align="center">💞️ I’m looking to collaborate on Games and surrounding Software</h4>
+<h4 align="center">😄 Pronouns: who / wer </h4>
 <h4 align="center">🔭 I’m currently working on: Astro Jump</h4>
 <h4 align="center">⚡ Fun fact: I don't know who i am.</h4>
 
@@ -40,6 +44,13 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=01324lolwer&show_icons=true&locale=en" alt="01324lolwer" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01324lolwer&" alt="01324lolwer" /></p>
+
+<p align="center"> 
+- PS:
+- Even thoug i was born Visible
+- Í now identify as invisible
+- My Pronouns are (Who / Where) 
+</p>
 <!---
 01324lolwer/01324lolwer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

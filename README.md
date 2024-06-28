@@ -6,7 +6,7 @@
 - 😄 Pronouns: who / wer 
 - ⚡ Fun fact: I don't know who i am.
 - 
--PS:
+- PS:
 - Even thoug i was born Visible
 - Í now identify as invisible
 - My Pronouns are (Who / Where)

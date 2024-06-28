@@ -26,7 +26,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01324lolwer&theme=dark" alt="01324lolwer" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01324lolwer&" alt="01324lolwer" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=01324lolwer&show_icons=true&theme=dark&locale=en" alt="01324lolwer" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01324lolwer" alt="01324lolwer" /></a> </p>
 

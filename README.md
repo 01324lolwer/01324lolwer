@@ -16,9 +16,9 @@
 <h1 align="center">Hi 👋, I'm 01324lol_wer</h1>
 <h3 align="center">Just a random IT Student from Germany.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=01324lolwer&label=Profile%20views&color=0e75b6&style=flat" alt="01324lolwer" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=01324lolwer&label=Profile%20views&color=0e75b6&style=flat" alt="01324lolwer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01324lolwer" alt="01324lolwer" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01324lolwer" alt="01324lolwer" /></a> </p>
 
 <h4 align="center">🔭 I’m currently working on: Astro Jump</h4>
 <h4 align="center">⚡ Fun fact: I don't know who i am.</h4>

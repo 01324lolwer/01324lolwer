@@ -6,6 +6,10 @@
 - 😄 Pronouns: who / wer 
 - ⚡ Fun fact: I don't know who i am.
 
+- Even thoug i was born Visible
+- Í now identify as invisible
+- My Pronouns are (Who / Where)
+
 <!---
 01324lolwer/01324lolwer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

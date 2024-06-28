@@ -20,8 +20,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01324lolwer" alt="01324lolwer" /></a> </p>
 
-<h3 align="center">🔭 I’m currently working on: **Astro Jump**</h3>
-<h3 align="center">⚡ Fun fact: **I don't know who i am.**</h3>
+<h4 align="center">🔭 I’m currently working on: Astro Jump</h4>
+<h4 align="center">⚡ Fun fact: I don't know who i am.</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

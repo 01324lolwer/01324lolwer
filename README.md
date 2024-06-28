@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm 01324lol_wer</h1>
 <h3 align="center">Just a random IT Student from Germany.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=01324lolwer&label=Profile%20views&color=0e75b6&style=flat" alt="01324lolwer" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01324lolwer" alt="01324lolwer" /></a> </p>
-
 <h4 align="center">👀 I’m interested in Gaming and Programming</h4>
 <h4 align="center">🌱 I’m currently learning Java</h4>
 <h4 align="center">💞️ I’m looking to collaborate on Games and surrounding Software</h4>
 <h4 align="center">😄 Pronouns: who / wer </h4>
 <h4 align="center">🔭 I’m currently working on: Astro Jump</h4>
 <h4 align="center">⚡ Fun fact: I don't know who i am.</h4>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=01324lolwer&label=Profile%20views&color=0e75b6&style=flat" alt="01324lolwer" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -26,9 +24,11 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=01324lolwer&show_icons=true&locale=en" alt="01324lolwer" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01324lolwer&theme=dark" alt="01324lolwer" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01324lolwer&" alt="01324lolwer" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01324lolwer" alt="01324lolwer" /></a> </p>
 
 <p align="center"> 
 PS:

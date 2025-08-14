@@ -28,7 +28,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=01324lolwer&show_icons=true&theme=dark&locale=en" alt="01324lolwer" /></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=01324lolwer&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=01324lolwer&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01324lolwer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="01324lolwer" /></a> </p>
 

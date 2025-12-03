@@ -2,10 +2,10 @@
 <h3 align="center">Just a random IT Student from Germany.</h3>
 
 <h4 align="center">👀 I’m interested in Gaming and Programming</h4>
-<h4 align="center">🌱 I’m currently learning Java</h4>
+<h4 align="center">🌱 I’m currently learning Java/Python/Lua</h4>
 <h4 align="center">💞️ I’m looking to collaborate on Games and surrounding Software</h4>
 <h4 align="center">😄 Pronouns: who / wer </h4>
-<h4 align="center">🔭 I’m currently working on: CashFlowPal</h4>
+<h4 align="center">🔭 I’m currently working on: BGSIHub</h4>
 <h4 align="center">⚡ Fun fact: I don't know who i am.</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=01324lolwer&label=Profile%20views&color=0e75b6&style=flat" alt="01324lolwer" /> </p>
